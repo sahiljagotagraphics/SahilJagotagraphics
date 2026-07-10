@@ -1,4 +1,4 @@
-![logo](https://github.com/SahilJagotagraphics/SahilJagotagraphics/blob/main/ChatGPT%20Image%20Jul%209%2C%202026%2C%2008_23_40%20AM.png)
+![logo](https://github.com/sahiljagotagraphics/SahilJagotagraphics/blob/main/ChatGPT%20Image%20Jul%209%2C%202026%2C%2008_23_40%20AM.png)
 <h1 align="center">Hi 👋, I'm Sahil Jagota</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="developer" width="400" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif">
